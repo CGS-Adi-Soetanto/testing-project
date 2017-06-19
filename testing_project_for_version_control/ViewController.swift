@@ -15,6 +15,10 @@ class ViewController: UIViewController {
         print("world")
     }
     
+    func addingCoolFeature() {
+        print("featureX is added")
+    }
+    
 
     override func viewDidLoad() {
         super.viewDidLoad()
